@@ -1,0 +1,6 @@
+This project is based opon to work of Laurent_91 (http://www.thingiverse.com/thing:1679292)
+
+Changes were made in optimizing the paths for laser cutting, size, and hinge desgin.
+
+### License ###
+Creative Commons – Attribution – Non-Commercial 
